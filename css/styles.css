@@ -5,3 +5,14 @@
     margin: 0 auto;
     display: block;
 }
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+td {
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    border: 1px solid black;
+}
